@@ -28,9 +28,13 @@ module Dictionary
 
     let rec lookup (s:string) (d:Dict) =
         match d with
+            // We reached the end of the word we want to lookup and return the leaf bool
             | Leaf b when s.Length = 0 -> b
+            // We reached the end of our tree but could not find our word
             | Leaf _ -> false
+            // We found our word even though we are not at the end of the tree
             | Node (b,_) when s.Length = 0 -> b
+            // We matched a letter of our word and will continue to look for the next letter
             | Node (_ ,m) ->
                 match m.TryFind(s.[0]) with
                     | Some d -> lookup s.[1..] d
@@ -45,4 +49,5 @@ module Dictionary
                         | Leaf b -> Some (b, d)
                         | Node (b,m) -> Some (b, d)
                 | None -> None
+        // The character we are looking for doesn't exist.
         | Leaf _ -> None      
