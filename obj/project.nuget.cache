@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hrTflEx6KQ3j5awaxcBlH3hZquypRdE9McAzF3D1mU87SxCNzfWCNxw00bPg8E7pSp1kjctz1Adyk3min8WxUQ==",
+  "dgSpecHash": "G1SEKtea+rBPc57I4ZoJIqoQ59QrCZrRyl+OwW9NvRdybl6nPkmLwWjdrsiKtP6nfAvPaZULcSArU++HcZCDOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj",
+  "projectFilePath": "c:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\mikke\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj": {}
+    "c:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj": {
+    "c:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj",
+        "projectUniqueName": "c:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj",
         "projectName": "FP-Assignment4",
-        "projectPath": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj",
+        "projectPath": "c:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj",
         "packagesPath": "C:\\Users\\mikke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\obj\\",
+        "outputPath": "c:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mikke\\AppData\\Roaming\\NuGet\\NuGet.Config"
