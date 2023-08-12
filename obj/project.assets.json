@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "FSharp.Core/7.0.0": {
+      "FSharp.Core/7.0.200": {
         "type": "package",
         "compile": {
           "lib/netstandard2.1/FSharp.Core.dll": {
@@ -59,15 +59,15 @@
     }
   },
   "libraries": {
-    "FSharp.Core/7.0.0": {
-      "sha512": "xPww0dhsH7o373ZNFY1Y08WRsJJUUzqGk0AIUxxUxSJkWqul0UwCBXg6UmqJX76VdiSvvEXn4SYwX8lYQaZzuQ==",
+    "FSharp.Core/7.0.200": {
+      "sha512": "NmgUnpNH6Zu9B0SPIhojyo38gnPdkdYFYQfbd6zosEH32kbGY/g/Klk7PfOWe1NAe/O1YOMmK9KhwQ2OWsWEbg==",
       "type": "package",
-      "path": "fsharp.core/7.0.0",
+      "path": "fsharp.core/7.0.200",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
-        "fsharp.core.7.0.0.nupkg.sha512",
+        "fsharp.core.7.0.200.nupkg.sha512",
         "fsharp.core.nuspec",
         "lib/netstandard2.0/FSharp.Core.dll",
         "lib/netstandard2.0/FSharp.Core.xml",
@@ -104,7 +104,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "FSharp.Core >= 7.0.0"
+      "FSharp.Core >= 7.0.200"
     ]
   },
   "packageFolders": {
@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj",
+      "projectUniqueName": "c:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj",
       "projectName": "FP-Assignment4",
-      "projectPath": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj",
+      "projectPath": "c:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\FP-Assignment4.fsproj",
       "packagesPath": "C:\\Users\\mikke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\obj\\",
+      "outputPath": "c:\\Users\\mikke\\iCloudDrive\\ITU\\Functional programming\\FP-Assignment4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mikke\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -126,7 +126,7 @@
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\sdk\\7.0.100\\FSharp\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.203\\FSharp\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -143,7 +143,7 @@
           "FSharp.Core": {
             "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
             "target": "Package",
-            "version": "[7.0.0, )",
+            "version": "[7.0.200, )",
             "generatePathProperty": true
           }
         },
@@ -163,7 +163,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
